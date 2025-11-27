@@ -30,7 +30,7 @@ Choose from Rogue Fitness (Aluminum recommended for lighter weight):
 
 ---
 
-## Closed D Handles
+## Closed D Handles (designed by SteveHarveysMustache)
 
 ![Closed D Handle](tranman/closed-d-handle.png)
 
